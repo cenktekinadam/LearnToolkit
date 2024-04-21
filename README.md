@@ -1,4 +1,4 @@
-# Bu mini crud uygulamasıyla Redux toolkit ile çalışmanın nasıl daha kolay ve verimli olacağını incelendi
+# Bu mini crud uygulamasıyla Redux toolkit ile çalışmanın nasıl daha kolay ve verimli olacağı incelendi
 
 
 # React Toolkit
